@@ -17,7 +17,7 @@ For a deeper theoretical understanding of various prompt engineering techniques,
 
 ## Prompt Engineering Techniques
 
-Explore our extensive list of prompt engineering techniques, ranging from basic to advanced explained pratically in jupyter notebooks:
+Explore our extensive collection of prompt engineering techniques, spanning from foundational concepts to advanced applications. Each technique is practically demonstrated through Jupyter notebooks, with links provided below for easy access and hands-on learning.
 
 ### 🌱 Fundamental Concepts
 
