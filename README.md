@@ -234,14 +234,12 @@ Explore our extensive list of prompt engineering techniques, ranging from basic 
 ## Playgrounds and Alternative UIs
 
 - [Official OpenAI Playground](https://platform.openai.com/playground)
-- [llm](https://github.com/snwfdhmp/llm): Use any LLM from the command line, easily.
 - [Nat.Dev](https://nat.dev): Multiple Chat AI Playground & Comparer.
 - [Poe.com](https://poe.com): All in one playground: GPT4, Sage, Claude+, Dragonfly, and more..
 - [Better ChatGPT](https://bettergpt.chat): A web app with a better UI for exploring OpenAI's ChatGPT API.
 - [Vercel Ai Playground](https://play.vercel.ai): One prompt, multiple Models (including GPT-4).
 - [Conju.ai](https://app.conju.ai/): A visual prompt chaining app.
 - [Voiceflow](https://www.voiceflow.com): Professional collaborative visual prompt-chaining tool.
-- [Opik](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications across your dev and production lifecycles.
 
 
 ## Prompt Generators
