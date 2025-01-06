@@ -19,7 +19,7 @@ Explore our extensive list of prompt engineering techniques, ranging from basic 
 
 ### 🌱 Fundamental Concepts
 
-1. **[Introduction to Prompt Engineering]**
+1. **[Introduction to Prompt Engineering]**(https://github.com/Riyazmk1995/Prompt_Engineering/blob/main/all_prompt_engineering_techniques/intro-prompt-engineering-lesson.ipynb)
    #### Overview 🔎
    A comprehensive introduction to the fundamental concepts of prompt engineering in the context of AI and language models.
 
